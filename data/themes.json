@@ -14,7 +14,7 @@
                 "primary_text": "#ffffff",
                 "primary_text_offset": "#e8ffff"
             },
-            "google_fonts": "https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;700&display=swap",
+            "google_fonts": "https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@600;900&display=swap",
             "fonts": {
                 "base": "Lato",
                 "heading": "Source Sans Pro"

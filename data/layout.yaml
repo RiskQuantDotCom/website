@@ -18,16 +18,16 @@ header:
   disableHamburgerMenu: false
 footer:
   title: "Cyber Risk Quant"
-  description: "© Copyright 2021. RiskQuant Pty Ltd t/as Cyber Risk Quant. All rights reserved."
-  copyrightText: "GPO Box 530, Melbourne, VIC 3000, Australia"
-  copyrightLink: ""
+  description: "© Copyright 2021. Cyber Risk Quant. All rights reserved."
+  copyrightText: "https://CyberRiskQuant.com"
+  copyrightLink: "https://CyberRiskQuant.com"
   copyrightShow: true
   phonenumberText: "+61 3 7020 3350"
   phonenumberShow: true
   showSocialMediaIcons: true
   footerMenuPrimaryHeading: "Company"
-  showPrimaryFooterMenu: true
+  showPrimaryFooterMenu: false 
   footerMenuSecondaryHeading: "Page Examples"
   showSecondaryFooterMenu: false
   footerMenuThirdHeading: "StartHere@CyberRiskQuant.com | +61 3 7020 3350"
-  showThirdFooterMenu: true 
+  showThirdFooterMenu: false
