@@ -14,7 +14,7 @@ logo:
   logoMobileHeight: 52
 header:
   headerFixed: true 
-  headerHeight: '180px' # recommended "60px" - updates a SCSS variable so requires restarting hugo server
+  headerHeight: '80px' # recommended "60px" - updates a SCSS variable so requires restarting hugo server
   disableHamburgerMenu: false
 footer:
   title: "Cyber Risk Quant"
