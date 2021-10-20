@@ -8,13 +8,13 @@ logo:
   showLogoImageOnMobile: true
   logoDesktop: "images/logo/crqlogo.jpg"
   logoDesktopDarkMode: "images/logo/logo-invert.svg"
-  logoMobile: "images/logo/logo-mobile.svg"
+  logoMobile: "images/logo/crqlogo.jpg"
   logoMobileDarkMode: "images/logo/logo-invert-mobile.svg"
-  logoDesktopHeight: 32
-  logoMobileHeight: 32
+  logoDesktopHeight: 52
+  logoMobileHeight: 52
 header:
   headerFixed: true 
-  headerHeight: '60px' # recommended "60px" - updates a SCSS variable so requires restarting hugo server
+  headerHeight: '180px' # recommended "60px" - updates a SCSS variable so requires restarting hugo server
   disableHamburgerMenu: false
 footer:
   title: "Cyber Risk Quant"
@@ -22,8 +22,6 @@ footer:
   copyrightText: "https://CyberRiskQuant.com"
   copyrightLink: "https://CyberRiskQuant.com"
   copyrightShow: true
-  phonenumberText: "+61 3 7020 3350"
-  phonenumberShow: true
   showSocialMediaIcons: true
   footerMenuPrimaryHeading: "Company"
   showPrimaryFooterMenu: false 

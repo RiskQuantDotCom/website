@@ -5980,7 +5980,7 @@ body {
     flex: 1; }
 
 body.has-fixed-header {
-  margin-top: 60px; }
+  margin-top: 180px; }
 
 body.has-transparent-header {
   margin-top: 0; }
@@ -6215,7 +6215,7 @@ button[type='submit'] {
   justify-content: space-between;
   padding: 0;
   z-index: 100;
-  height: 60px; }
+  height: 180px; }
   @media (min-width: 768px) {
     .header {
       padding: 10px 0; } }
@@ -6915,10 +6915,10 @@ ul.pagination {
         opacity: 1; }
 
 body.has-transparent-header .hero .hero-content {
-  padding-top: 75px; }
+  padding-top: 135px; }
   @media (min-width: 768px) {
     body.has-transparent-header .hero .hero-content {
-      padding-top: 150px; } }
+      padding-top: 270px; } }
 .grid .grid-heading {
   text-align: center;
   width: 80%;

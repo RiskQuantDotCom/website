@@ -27,38 +27,7 @@ sections:
     border: false
     borderRadius: true
     shadow: false
-    altText: "Hugo Paradigm"
-  buttons:
-    - button: 
-      url: "/learnmore/"
-      text: Learn more 
-      external: true
-    - button: 
-      url: "/contactus/"
-      text: Contact us
-      external: true
-- template: grid
-  options:
-    paddingTop: false
-    theme: base
-  heading: ''
-  contentType: partners
-  sortBy: weight
-  align: center
-  columns: 2
-  columnsMobile: 6
-  card:
-    partial: card-image-only
-    shadow: false
-    border: false
-    showDescription: false
-    showTitle: false
-  buttons:
-  - button: 
-    url: "https://www.zerostatic.io/theme/hugo-paradigm/"
-    text: Buy Theme
-    external: true
-  partial: card
+    altText: "Cyber Risk Quant"
 - template: info
   options:
     theme: base-offset
@@ -72,14 +41,4 @@ sections:
     text: Learn more 
     external: false
     theme: base-text
-- template: cta
-  options:
-    theme: primary
-  heading: "Kickstart your Hugo project"
-  description: "Cyber risk management is a subject filled with question marks related to cybersecurity and complex technologies. Cyber Risk Quant is here to give you the answers you need."
-  buttons:
-  - button: 
-    url: "/contactus"
-    text: "Contact us"
-    external: true
 ---
