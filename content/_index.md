@@ -13,7 +13,7 @@ sections:
     theme: base
   headings:
     heading: "Cyber security as a goal is meaningless without measurement."
-    text: "You either measure and know, or it's just another subjective opinion."
+    text: "You either measure and know, otherwise it's just your subjective opinion."
   height: auto
   alignHorizontal: left
   alignVertical: middle
