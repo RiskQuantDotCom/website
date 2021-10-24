@@ -12,8 +12,8 @@ sections:
     classes: 'my-example-class'
     theme: base
   headings:
-    heading: "Cyber security as a goal is meaningless."
-    text: "Being more secure than your competitors is meaningful. The difference is measurement."
+    heading: "Cyber security as a goal is meaningless without measurement."
+    text: "You either measure and know, or it's just another subjective opinion."
   height: auto
   alignHorizontal: left
   alignVertical: middle
