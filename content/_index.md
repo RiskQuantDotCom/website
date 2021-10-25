@@ -12,8 +12,8 @@ sections:
     classes: 'my-example-class'
     theme: base
   headings:
-    heading: "Cyber security as a goal is meaningless without measurement."
-    text: "You either measure and know, otherwise it's just your subjective opinion."
+    heading: "You either measure and know, or it's just your subjective opinion" 
+    text: "Cyber security as a goal is meaningless without measurement."
   height: auto
   alignHorizontal: left
   alignVertical: middle
