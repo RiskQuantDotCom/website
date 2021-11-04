@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2020-03-22
-description: "Cyber Risk Quant - Cyber security as a goal is meaningless."
+description: "Cyber Risk Quant - Measuring Cyber Security Effectiveness."
 sections:
 - template: hero
   options:
@@ -12,8 +12,8 @@ sections:
     classes: 'my-example-class'
     theme: base
   headings:
-    heading: "You either measure and know, or it's just your subjective opinion" 
-    text: "Cyber security as a goal is meaningless without measurement."
+    heading: "Measuring Cyber Security Effectiveness" 
+    text: "You either measure and know, or it's just your subjective opinion."
   height: auto
   alignHorizontal: left
   alignVertical: middle
