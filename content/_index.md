@@ -21,6 +21,7 @@ sections:
     backgroundImage: ''
     monotone: false
     opacity: ''
+  {{< vimeo 146022717 >}}
   image:
     image: "images/pages/photo-1596128446017-1106bd96ef89-1170.jpg"
     overlap: false
