@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2020-03-22
-description: "Cyber Risk Quant - Measuring Cyber Security Effectiveness."
+description: "Cyber Risk Quant - Measuring Cyber Security Performance."
 sections:
 - template: hero
   options:
@@ -12,8 +12,8 @@ sections:
     classes: 'my-example-class'
     theme: base
   headings:
-    heading: "Measuring Cyber Security Effectiveness" 
-    text: "You either measure and know, or it's just your subjective opinion."
+    heading: "Measuring Cyber Security Performance" 
+    text: "You either measure and know, or it's just your subjective rating."
   height: auto
   alignHorizontal: left
   alignVertical: middle
