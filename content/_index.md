@@ -22,7 +22,8 @@ sections:
     monotone: false
     opacity: ''
   videos:
-    videos: {{< vimeo id="146022717" class="my-vimeo-wrapper-class" title="My vimeo video" >}}
+    vimeo-embed: <iframe src="https://player.vimeo.com/video/107591790" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    homedisplay: iframe
     overlap: false
     border: false
     borderRadius: true
