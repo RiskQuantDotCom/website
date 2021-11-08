@@ -22,7 +22,7 @@ sections:
     monotone: false
     opacity: ''
   image:
-    image: {{< vimeo id="146022717" class="my-vimeo-wrapper-class" title="My vimeo video" >}}
+    vimeo-container: {{< vimeo id="146022717" class="my-vimeo-wrapper-class" title="My vimeo video" >}}
     overlap: false
     border: false
     borderRadius: true
