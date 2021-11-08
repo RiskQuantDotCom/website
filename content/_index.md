@@ -22,7 +22,7 @@ sections:
     monotone: false
     opacity: ''
   image:
-    image: "images/pages/photo-1596128446017-1106bd96ef89-1170.jpg"
+    image: "images/pages/vid1.mp4"
     overlap: false
     border: false
     borderRadius: true
