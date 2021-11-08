@@ -21,8 +21,7 @@ sections:
     backgroundImage: ''
     monotone: false
     opacity: ''
-  video:
-    {{< video src="my-beautiful-screencast" >}}
+    video: "images/pages/vid1.mp4"
     homedisplay: iframe
     overlap: false
     border: false
