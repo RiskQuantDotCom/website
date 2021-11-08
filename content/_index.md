@@ -21,8 +21,8 @@ sections:
     backgroundImage: ''
     monotone: false
     opacity: ''
-  vimeo:
-    vimeo-embed: <iframe src="https://player.vimeo.com/video/107591790" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  video:
+    {{< video src="my-beautiful-screencast" >}}
     homedisplay: iframe
     overlap: false
     border: false
