@@ -21,7 +21,7 @@ sections:
     backgroundImage: ''
     monotone: false
     opacity: ''
-    video: "images/pages/vid1.mp4"
+    video: "https://vimeo.com/2718242"
     homedisplay: iframe
     overlap: false
     border: false
