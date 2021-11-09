@@ -22,7 +22,6 @@ sections:
     monotone: false
     opacity: ''
     video: "https://vimeo.com/2718242"
-    homedisplay: iframe
     overlap: false
     border: false
     borderRadius: true
