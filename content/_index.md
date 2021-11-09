@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Cyber Risk Quant - Measuring Cyber Security Performance
 date: 2020-03-22
 description: "Cyber Risk Quant - Measuring Cyber Security Performance."
 sections:
