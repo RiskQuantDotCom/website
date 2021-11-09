@@ -12,8 +12,8 @@ sections:
     classes: 'my-example-class'
     theme: base
   headings:
-    heading: "Measuring Cyber Security Performance" 
-    text: "You either measure and know, or it's just your subjective rating."
+    heading: "Are you reazdy for the "hardest question"?" 
+    text: "Imagine being blindsided in the midst of a critical meeting with a question you don't want to answer."
   height: auto
   alignHorizontal: left
   alignVertical: middle
