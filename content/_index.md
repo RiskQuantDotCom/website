@@ -12,7 +12,7 @@ sections:
     classes: 'my-example-class'
     theme: base
   headings:
-    heading: "Are you reazdy for the "hardest question"?" 
+    heading: "Are you ready for the "hardest question"?" 
     text: "Imagine being blindsided in the midst of a critical meeting with a question you don't want to answer."
   height: auto
   alignHorizontal: left
