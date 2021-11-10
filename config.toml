@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Cyber Risk Quant"
-theme = ["hugo-video", "hugo-paradigm"]
+theme = "hugo-paradigm"
 enableGitInfo = false
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
