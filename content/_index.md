@@ -21,7 +21,6 @@ sections:
     backgroundImage: ''
     monotone: false
     opacity: ''
-    video: "https://vimeo.com/2718242"
     overlap: false
     border: false
     borderRadius: true
